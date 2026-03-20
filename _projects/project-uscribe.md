@@ -1,6 +1,6 @@
 ---
 title: "uScribe: AI-Powered Writing Assistant"
-order: 1
+date: 2026-03-10
 excerpt: "[https://github.com/ron9413/uscribe](https://github.com/ron9413/uscribe)"
 collection: projects
 ---

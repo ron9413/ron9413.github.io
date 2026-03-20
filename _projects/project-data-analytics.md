@@ -1,6 +1,6 @@
 ---
 title: "Data Analytics"
-order: 6
+date: 2016-01-24
 excerpt: "<br/><img src='/images/nba.png'>"
 collection: projects
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Full-Custom IC Design"
-order: 7
+date: 2015-09-03
 excerpt: "<br/><img src='/images/ic.jpg'>"
 collection: projects
 ---

@@ -1,6 +1,6 @@
 ---
 title: "MusicBot: A Smart Music Assistant"
-order: 2
+date: 2017-06-25
 excerpt: "<br/><img src='/images/icb.png'>"
 collection: projects
 ---

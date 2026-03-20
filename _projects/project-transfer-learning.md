@@ -1,6 +1,6 @@
 ---
 title: "Transfer Learning on Stack Exchange Tags"
-order: 3
+date: 2017-01-20
 excerpt: "<br/><img src='/images/transfer_learning.png'>"
 collection: projects
 ---
