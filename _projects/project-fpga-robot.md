@@ -1,5 +1,6 @@
 ---
 title: "Wireless Controlled Auto-sensing Robot"
+order: 4
 excerpt: "<br/><img src='/images/altera.jpg'>"
 collection: project
 ---

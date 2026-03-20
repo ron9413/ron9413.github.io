@@ -1,5 +1,6 @@
 ---
 title: "Reinforcement Learning - Bomberman"
+order: 5
 excerpt: "<br/><img src='/images/bomberman.png'>"
 collection: project
 ---
